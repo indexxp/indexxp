@@ -1,2 +1,2 @@
-##FitBuddy
+# FitBuddy
 ---
