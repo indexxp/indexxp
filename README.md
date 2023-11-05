@@ -2,11 +2,12 @@
 	<span id="top">
 	<h1> FitBuddy </h1><br>
 
-![image]()
+image
 <h3>핏버디 소개</h3><br>
 
 
- <b>[핏버디 바로가기] link </b> <br>
+<b>[핏버디 바로가기] link </b> 
+<br>
   Test ID : `gitbuddy98@naver.com` <br>
   Test PW : `gitbuddy98`
 <br> 
