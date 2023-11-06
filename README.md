@@ -149,6 +149,31 @@ image
 
 
 ## <span id="convention">7. 컨벤션</span>
+
+### Branch name 컨벤션
+
+1. **기능 브랜치 (Feature Branches)**:
+    - **`feature/이슈번호-기능명`** 과 같은 형식을 사용합니다.
+    - 예: **`feature/42-dashboard-widget`**.
+2. **버그 수정 브랜치 (Bugfix Branches)**:
+    - `bugfix/이슈번호-버그명`** 과 같은 형식을 사용합니다.
+    - 예: **`bugfix/53-login-issue`**.
+3. **릴리스 브랜치 (Release Branches)**:
+    - 릴리스 브랜치는 특정 버전의 릴리스를 준비하는 데 사용됩니다.
+    - **`release/버전번호`** 와 같은 형식을 사용합니다.
+    - 예: **`release/1.0.0`**.
+4. **기타 브랜치**:
+    - 기타 브랜치는 작업의 종류에 따라 다양하게 만들어질 수 있습니다. 예를 들어, 테스트를 위한 브랜치(**`test/기능명`**), 문서 작업을 위한 브랜치(**`docs/내용`**) 등이 있을 수 있습니다.
+5. **메인 브랜치 (Main Branch)**:
+    - **`main`** 이며 최종적으로 배포를 할 때만 사용합니다.
+6. **디벨롭 브랜치 (Develop Branch)**:
+    - **`develop`** 이며, 각 기능을 구현한 **feature Branch** 를 병합합니다.
+7. **핫픽스 브랜치 (Hotfix Branches)**:
+    - 릴리스 후 발견된 긴급한 버그를 수정하기 위한 브랜치입니다.
+    - **`hotfix/버전번호-버그명`** 과 같은 형식을 사용합니다.
+    - 예: **`hotfix/1.0.1-security-patch`**.
+8. **Pull Request와 머지 커밋**: Pull Request 또는 머지 커밋 메시지에서 해당 브랜치의 내용을 요약하고 이슈 번호를 참조하는 것이 도움이 됩니다.
+
 ### Commit 컨벤션
 
 |제목|설명|
@@ -204,7 +229,7 @@ Prettier란 정해진 규칙에 따라 자동으로 코드 스타일을 정리 �
 `.prettierrc.js`는 다음과 같이 통일합니다.
 
 
-```json
+```jsonc
 {
   "bracketSpacing": true, // 객체 리터럴에서 괄호에 공백 삽입
   "jsxBracketSameLine": false, // JSX의 마지막 `>`를 다음 줄로 내릴지 여부
@@ -347,3 +372,5 @@ ESLint는 자바스크립트에서 문법적 에러를 표시해주는 도구입
 ## <span id="issues">10. 핵심 코드</span>
 
 ## <span id="review">11. 후기</span>
+
+
