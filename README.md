@@ -2,7 +2,7 @@
 	<span id="top">
 	<h1>💪 FitBuddy </h1><br>
 
-image
+![image](https://github.com/indexxp/practice/assets/139687655/65b59c00-4672-4c75-b74d-32640fbd09f2)
 
 <h3>핏버디 소개</h3><br>
 
@@ -49,11 +49,10 @@ Test PW : `gitbuddy98`
 
 <br/>
 <div align="center">
-<img src="이미지 url">
 
 |                                                                   **박규경**                                                                    |                                                                  **박지수**                                                                  |                                                                    **이승무**                                                                    |                                                                      **한동수**                                                                      |
 | :---------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                   <img src="![gyugyu](https://github.com/indexxp/practice/assets/139687655/c2e3400d-31c4-44d2-a2aa-04f6da48ff15)" height=180 width=180>                                                   |                                                 <img src="profileimg" height=180 width=180>                                                  |                                                   <img src="profileimg" height=180 width=180>                                                    |                                                     <img src="profileimg" height=180 width=180>                                                      |
+|                                                   <img src="https://github.com/indexxp/practice/assets/139687655/c2e3400d-31c4-44d2-a2aa-04f6da48ff15" height=180 width=180>                                                   |                                                 <img src="https://github.com/indexxp/practice/assets/139687655/36638820-cc18-41f9-877b-7ba7489df1a8" height=180 width=180>                                                  |                                                   <img src="https://github.com/indexxp/practice/assets/139687655/5db1390d-8e2b-458f-810b-8a5f0e73b8da)" height=180 width=180>                                                    |                                                     <img src="profileimg" height=180 width=180>                                                      |
 | <a href="https://github.com/ggpark1218"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a><br/> | <a href="https://github.com/indexxp"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a><br/> | <a href="https://github.com/GoodSilver9"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a><br/> |    <a href="https://github.com/handongsu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a><br/>    |
 |   ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb) </br> ![Team%20Leader](https://img.shields.io/badge/-Team%20leader-red) </br>    |  ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb) </br> ![Document%20Leader](https://img.shields.io/badge/-Document%20leader-orange)  | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)</br> ![Development%20Leader](https://img.shields.io/badge/-Development%20leader-yellow) | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)</br> ![Communication%20Leader](https://img.shields.io/badge/-Comunication%20Leader-green) |
 
