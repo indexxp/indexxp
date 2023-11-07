@@ -63,9 +63,9 @@ Test PW : `gitbuddy98`
 
 <div align="center">
 
-|                                                                                                                                                                                                                       FrontEnd                                                                                                                                                                                                                        |                                                      BackEnd                                                      |                                                                                                                Design                                                                                                                |                                                                                                                                                                                                      협업방식                                                                                                                                                                                                       |                                                                                                        컨벤션                                                                                                         |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-CC6699?style=flat-square&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5.svg?style=flat-square&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"> | 제공 API <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"> | <img src="https://img.shields.io/badge/figma-FBCEB1?style=flat-square&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"> | <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=Prettier&logoColor=black"> <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=ESLint&logoColor=white"> |
+|                                                                                                                                                                                                                       FrontEnd                                                                                                                                                                                                                        |                                                      BackEnd                                                      |                                                                                                                Design                                                                                                                |                                                                                                                                                                                                      협업방식                                                                                                                                                                                                       |                                                                                                        컨벤션                                                                                                         | 테스트 툴
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-CC6699?style=flat-square&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5.svg?style=flat-square&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"> | 제공 API <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"> | <img src="https://img.shields.io/badge/figma-FBCEB1?style=flat-square&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"> | <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=Prettier&logoColor=black"> <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=ESLint&logoColor=white"> | <img src="https://img.shields.io/badge/thunderclient-purple"/>
 
 </div>
 
@@ -107,45 +107,54 @@ Test PW : `gitbuddy98`
 
 🎨 UI
 
-- UIUIUI
--
+- 마이페이지
+- 내가 쓴 피드
+- 내가 쓴 모집글
 
 🎶 공통 컴포넌트
 
-- COMPO COMPO
--
+- Card
+- Modal
+- 로그아웃
 
 ✨ 기능 구현
 
-- FEAT FEAT
--
+- 인피니티 스크롤
+- 프로필 API
 
 🤝 기타
 
-- 피그마 페이지 구현
--
+- 리드미
 
 ### 이승무
 
 🎨 UI
 
-- UIUIUIUI
--
+- 메인 홈 페이지
+- 모집글 상세 페이지
+- 모집글 그룹 작성 페이지
+- 지도 모달 페이지
+- 캘린더 페이지
+- 404
 
 🎶 공통 컴포넌트
 
-- COMPO COMPO
--
+- Button
+- Input
+- PlaceHolder
+- Post
 
 ✨ 기능 구현
 
-- 카카오맵 API
-- 캘린더 라이브러리
--
+- 홈 피드, 모집글, 위치, 카카오맵 API 연결
+- 종목, 커뮤니티 페이지 카테고리 설정
+- 유효성 검사
 
 🤝 기타
 
-- 깃허브 총관리자
+- 개발 워크플로우 및 레파지토리 유지관리
+- 안돼요 해주세요 -> 됩니다
+  
 
 ### 한동수
 
@@ -166,7 +175,7 @@ Test PW : `gitbuddy98`
 
 🤝 기타
 
-- 파일 구조 나누기 담당
+- 파일 구조 분리
 -
 
 ## <span id="function">6. 구현 기능</span>
