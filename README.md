@@ -74,7 +74,7 @@ Test PW : `gitbuddy98`
 ## <span id="schedule">4. 개발 일정</span>
 
 <div align="center">
-	img
+	<img src="https://github.com/indexxp/practice/assets/139687655/f336de31-3871-4a1d-97e7-cc271956550a">
 </div>
 
 <br><br>
