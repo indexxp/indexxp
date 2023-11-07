@@ -54,7 +54,7 @@ Test PW : `gitbuddy98`
 | :---------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                   <img src="profileimg" height=180 width=180>                                                   |                                                 <img src="profileimg" height=180 width=180>                                                  |                                                   <img src="profileimg" height=180 width=180>                                                    |                                                     <img src="profileimg" height=180 width=180>                                                      |
 | <a href="https://github.com/ggpark1218"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a><br/> | <a href="https://github.com/indexxp"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a><br/> | <a href="https://github.com/GoodSilver9"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a><br/> |    <a href="https://github.com/handongsu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a><br/>    |
-|   ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb) </br> ![Team%20Leader](https://img.shields.io/badge/-Team%20leader-yellow) </br>    |  ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb) </br> ![Document%20Leader](https://img.shields.io/badge/-Document%20leader-blue)  | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)</br> ![Development%20Leader](https://img.shields.io/badge/-Development%20leader-green) | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)</br> ![Communication%20Leader](https://img.shields.io/badge/-Comunication%20Leader-orange) |
+|   ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb) </br> ![Team%20Leader](https://img.shields.io/badge/-Team%20leader-red) </br>    |  ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb) </br> ![Document%20Leader](https://img.shields.io/badge/-Document%20leader-orange)  | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)</br> ![Development%20Leader](https://img.shields.io/badge/-Development%20leader-yellow) | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)</br> ![Communication%20Leader](https://img.shields.io/badge/-Comunication%20Leader-green) |
 
 </div>
 <br><br>
@@ -153,7 +153,6 @@ Test PW : `gitbuddy98`
 🤝 기타
 
 - 개발 워크플로우 및 레파지토리 유지관리
-- 안돼요 해주세요 -> 됩니다
   
 
 ### 한동수
