@@ -44,17 +44,16 @@ Test PW : `gitbuddy98`
 
 ## <span id="team">2. 팀 소개</span>
 
-### 규경지수승무동수let's go😎 
+### 규경지수승무동수let's go😎
 
 <br/>
 <div align="center">
 
-| **박규경** | **박지수** | **이승무** | **한동수** |
-|:---:|:---:|:---:|:---:|
+|                                                                    **박규경**                                                                    |                                                                    **박지수**                                                                    |                                                                    **이승무**                                                                    |                                                                    **한동수**                                                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/0c569a94-0ccc-45a5-9511-98e56a0d6d66" width="180" height="180"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/ce91a109-b0bc-4abf-90b7-c7f54dce1ce9" width="180" height="180"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/7e6a58d2-74f2-4e80-b7c1-69294343c059" width="180" height="180"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/7dce0db0-44c3-4911-920e-618a5ef458c5" width="180" height="180"/> |
-| [![GitHub ggpark1218](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/ggpark1218) | [![GitHub indexxp](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/indexxp) | [![GitHub GoodSilver9](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/GoodSilver9) | [![GitHub handongsu](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/handongsu) |
-| ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Team Leader](https://img.shields.io/badge/-Team%20leader-red) | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Document Leader](https://img.shields.io/badge/-Document%20leader-orange) | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Development Leader](https://img.shields.io/badge/-Development%20leader-yellow) | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Communication Leader](https://img.shields.io/badge/-Communication%20Leader-green) |
-
+|     [![GitHub ggpark1218](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/ggpark1218)     |        [![GitHub indexxp](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/indexxp)        |    [![GitHub GoodSilver9](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/GoodSilver9)    |      [![GitHub handongsu](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/handongsu)      |
+|           ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Team Leader](https://img.shields.io/badge/-Team%20leader-red)           |     ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Document Leader](https://img.shields.io/badge/-Document%20leader-orange)      |  ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Development Leader](https://img.shields.io/badge/-Development%20leader-yellow)   | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Communication Leader](https://img.shields.io/badge/-Communication%20Leader-green) |
 
 </div>
 <br><br>
@@ -63,24 +62,26 @@ Test PW : `gitbuddy98`
 
 <div align="center">
 
-| FrontEnd | BackEnd | Design | 협업방식 | 컨벤션 |
-|:--------:|:-------:|:------:|:--------:|:------:|
+|                                                                                                                                                                                                                       FrontEnd                                                                                                                                                                                                                        |                                                 BackEnd                                                  |                                                                                                                Design                                                                                                                |                                                                                                                                                                                                      협업방식                                                                                                                                                                                                       |                                                                                                        컨벤션                                                                                                         |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-CC6699?style=flat-square&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5.svg?style=flat-square&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"> | <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"> | <img src="https://img.shields.io/badge/figma-FBCEB1?style=flat-square&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"> | <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=Prettier&logoColor=black"> <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=ESLint&logoColor=white"> |
-
 
 </div>
 
 ### 협업 방식
+
 #### 📝: 팀 [노션](https://www.notion.so/21-Let-s-Go-d608c7bc45cf46f4b6a4c96cb6687881) 바로가기
+
 #### 📝: 팀 [피그마](https://www.figma.com/file/yPBqRSSo1gjLd7FOKA9GSF/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?type=design&node-id=0%3A1&mode=design&t=Z5xPkG6Xtok7LsiV-1) 바로가기
+
 <br>
 
 - **🗣 데일리 스크럼** <br>
- <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/d2ca16e7-b41a-4732-ac4e-54015f0dcba2" width="200" height="620"/> 
- <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/6b4d8686-362d-4412-8d6d-505a541f8efe" width="800" height="620"/>
+  <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/d2ca16e7-b41a-4732-ac4e-54015f0dcba2" width="200" height="600"/>
+  <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/6b4d8686-362d-4412-8d6d-505a541f8efe" width="800" height="600"/>
 
 <br> 매일 밤 10시에 모여 다음 일정을 논의하고 진행도 공유 및 피드백을 나누었습니다.<br>
- 
+
 - **👥 오프라인 회의** <br>
   프로젝트가 진행되는 3주 동안 매주 1번은 모여 대면으로 프로젝트를 진행하였습니다.
 - **📹 라이브 쉐어** <br>
@@ -102,8 +103,8 @@ Test PW : `gitbuddy98`
 - `refactoring` : 코드의 효율성, 가독성, 구조적 개선을 위한 리팩토링 작업을 위한 브랜치
   - 리팩토링은 새로운 기능 추가 없이 기존 코드를 더욱 깔끔하고 효율적으로 만들기 위한 작업을 말합니다.
   - 이름은 `refactor/리팩토링대상`으로 지어서 어떤 부분에 대한 리팩토링인지 알 수 있도록 합니다.
-  `깃플로우 전략`을 프로젝트 규모에 맞춰 활용함으로 브랜치 및 이슈를 효율적으로 관리하고,
-  충돌을 효과적으로 처리했으며 `컨벤션`을 맞춰 커밋 메세지를 작성함으로 작업 진행 상황에 대한 빠른 이해를 도왔습니다.
+    `깃플로우 전략`을 프로젝트 규모에 맞춰 활용함으로 브랜치 및 이슈를 효율적으로 관리하고,
+    충돌을 효과적으로 처리했으며 `컨벤션`을 맞춰 커밋 메세지를 작성함으로 작업 진행 상황에 대한 빠른 이해를 도왔습니다.
 
 <br>
 
@@ -115,45 +116,296 @@ Test PW : `gitbuddy98`
 
 ## <span id="roles">5. 역할 분담</span>
 
-| 박규경 | 박지수 | 이승무 | 한동수 |
-|--------|--------|--------|--------|
-| **🎨 UI**<br>- 전체적인 UI 디자인<br>- 로그인<br>- 모집글 상세<br>- 작성한 모집글<br>- 커뮤니티<br><br>**🎶 공통 컴포넌트**<br>- Alert<br>- Comment<br><br>**✨ 기능 구현**<br>- 로그인, 홈 피드, 모집글, 커뮤니티 API<br>- Firebase Custom Hooks<br>- 모집글 참여 유저 정보 저장/로드<br><br>**🤝 기타**<br>- 피그마 디자인 총괄<br>- 디자인 컴포넌트화<br>- 문서화 및 관리 | **🎨 UI**<br>- 전체적인 UI 디자인<br>- 마이페이지<br>- 내가 쓴 피드<br>- 내가 쓴 모집글<br><br>**🎶 공통 컴포넌트**<br>- Card<br>- Modal<br><br>**✨ 기능 구현**<br>- 인피니티 스크롤<br>- 로그아웃 <br>- 프로필 API<br><br>🤝 **기타**<br>- 피그마 디자인 시각화<br>- 리드미, 문서 정리 | <br>**🎨 UI**<br>- 메인 홈<br>- 모집글 상세<br>- 모집글 그룹<br>- 지도 모달<br>- 캘린더<br>- 404<br>**<br>🎶 공통 컴포넌트**<br>- Button<br>- Input<br>- PlaceHolder<br>- Post<br>**<br>✨ 기능 구현**<br>- 홈 피드, 모집글, 위치, 카카오맵 API<br>- 운동 종목, 커뮤니티 카테고리 설정<br>- 유효성 검사<br><br>**🤝 기타**<br>- 워크플로우 관리<br>- 레파지토리 유지 관리 <br><br>| **🎨 UI**<br>- 회원가입<br>- 온보드<br>- 스플래시<br>- 커뮤니티<br><br>**🎶 공통 컴포넌트**<br>- Nav<br>- Chip<br><br>**✨ 기능 구현**<br>- 회원가입, 커뮤니티, 이미지, <br> 댓글 리스트, 좋아요 API<br>- Nav Router 연결<br>- 유저정보 토큰 저장<br>- Favicon, Font, GlobalStyles<br><br>**🤝 기타**<br>- 파일 구조 분리<br>- 개발 진행상황도 |
-
+| 박규경                                                                                                                                                                                                                                                                                                                                                                       | 박지수                                                                                                                                                                                                                                                                                   | 이승무                                                                                                                                                                                                                                                                                                                                                                             | 한동수                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🎨 UI**<br>- 전체적인 UI 디자인<br>- 로그인<br>- 모집글 상세<br>- 작성한 모집글<br>- 커뮤니티<br><br>**🎶 공통 컴포넌트**<br>- Alert<br>- Comment<br><br>**✨ 기능 구현**<br>- 로그인, 홈 피드, 모집글, 커뮤니티 API<br>- Firebase Custom Hooks<br>- 모집글 참여 유저 정보 저장/로드<br><br>**🤝 기타**<br>- 피그마 디자인 총괄<br>- 디자인 컴포넌트화<br>- 문서화 및 관리 | **🎨 UI**<br>- 전체적인 UI 디자인<br>- 마이페이지<br>- 내가 쓴 피드<br>- 내가 쓴 모집글<br><br>**🎶 공통 컴포넌트**<br>- Card<br>- Modal<br><br>**✨ 기능 구현**<br>- 인피니티 스크롤<br>- 로그아웃 <br>- 프로필 API<br><br>🤝 **기타**<br>- 피그마 디자인 시각화<br>- 리드미, 문서 정리 | <br>**🎨 UI**<br>- 메인 홈<br>- 모집글 상세<br>- 모집글 그룹<br>- 지도 모달<br>- 캘린더<br>- 404<br>**<br>🎶 공통 컴포넌트**<br>- Button<br>- Input<br>- PlaceHolder<br>- Post<br>**<br>✨ 기능 구현**<br>- 홈 피드, 모집글, 위치, 카카오맵 API<br>- 운동 종목, 커뮤니티 카테고리 설정<br>- 유효성 검사<br><br>**🤝 기타**<br>- 워크플로우 관리<br>- 레파지토리 유지 관리 <br><br> | **🎨 UI**<br>- 회원가입<br>- 온보드<br>- 스플래시<br>- 커뮤니티<br><br>**🎶 공통 컴포넌트**<br>- Nav<br>- Chip<br><br>**✨ 기능 구현**<br>- 회원가입, 커뮤니티, 이미지, <br> 댓글 리스트, 좋아요 API<br>- Nav Router 연결<br>- 유저정보 토큰 저장<br>- Favicon, Font, GlobalStyles<br><br>**🤝 기타**<br>- 파일 구조 분리<br>- 개발 진행상황도 |
 
 <br>
 
 ## <span id="function">6. 기능 구현</span>
 
-| 스플래시 | 회원가입 | 로그인 | 홈 - 카테고리 |
-|:---:|:---:|:---:|:---:|
+|                                                                     스플래시                                                                     |                                                                     회원가입                                                                     |                                                                      로그인                                                                      |                                                                  홈 - 카테고리                                                                   |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/de48ad80-3dc0-43d9-aca6-5f3b03ed546c" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/63f0ad9a-8d08-44e4-a3a7-e2626b01fffa" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/6d2375c2-8f94-4846-94c9-c677fb41cc3d" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/42603fe4-7a0e-430d-bea2-12da02cd865e" width="200" height="400"/> |
 
-
-
-|  모집글 업로드  |  모집글 상세  |  모집글  |  모집글 삭제 |
-|:---:|:---:|:---:|:---:|
+|                                                                  모집글 업로드                                                                   |                                                                   모집글 상세                                                                    |                                                                      모집글                                                                      |                                                                   모집글 삭제                                                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/2aed31ca-5607-486b-bdea-efebd2f22a6f" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/f0aab59b-f552-4dff-9744-f6bd31696bc7" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/6408cbff-378f-4058-8cd0-2e721b59181f" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/47f37662-0fc8-4079-b319-eaad68a6a5c2" width="200" height="400"/> |
 
-| 캘린더 |
-|:---:|
+|                                                                      캘린더                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/3be57c84-97ca-4316-b939-aa5ab983763b" width="200" height="400"/> |
 
-| 커뮤니티 | 커뮤니티 업로드 | 커뮤니티 댓글 |
-|:---:|:---:|:---:|
+|                                                                     커뮤니티                                                                     |                                                                 커뮤니티 업로드                                                                  |                                                                  커뮤니티 댓글                                                                   |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/a2caf1c8-1965-4274-ac5b-fda1c8fca23b" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/3a741d8e-c290-49c9-8088-0e1e7db646a5" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/2175f277-c672-40e4-99a0-ed022822b74b" width="200" height="400"/> |
 
-| 마이페이지 | 404 |
-|:---:|:---:|
+|                                                                    마이페이지                                                                    |                                                                       404                                                                        |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/ea2c76b0-52ff-4aed-8a06-4b93340db881" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/19047fa2-f9f3-4eba-ae38-123aacc15305" width="200" height="400"/> |
-
 
 ## <span id="important">7. 핵심 코드</span>
 
 ### Axios
 
+`axios` 라이브러리를 활용하여 API를 호출하였습니다. `axios` 인스턴스를 만들어 기본 설정을 한 번에 구성하여 모든 요청에 대해 동일한 구성을 사용할 수 있었으며, <br> 
+`axios` 인스턴스에 `create`메서드를 통해 서버의 기본 URL을 설정하고 `interceptors`를 추가하여 요청 전 조건을 만족했을 시에 실행하도록 하였습니다.
+
+```javascript
+import axios from 'axios';
+export const URL = '{API의 URL주소}';
+
+/* 기본 인스턴스 */
+export const instance = axios.create({
+  baseURL: URL,
+  headers: {
+    'Content-Type': 'application/json',
+  },
+});
+
+//항상 최신 토큰 값을 사용
+export const axiosApi = axios.create({
+  baseURL: URL,
+  headers: {
+    'Content-Type': 'application/json',
+  },
+});
+
+...
+
+//토큰 유효성 확인하지 않고 요청을 빠르게 보낼 때 사용
+export const authInstance = axios.create({
+  baseURL: URL,
+  headers: {
+    Authorization: `Bearer ${localStorage.getItem('token')}`,
+    'Content-Type': 'application/json',
+  },
+});
+// Authorization 헤더의 값이 null을 포함하는지 확인. 포함한다면, 로컬 스토리지에서 토큰을 다시 찾아 Authorization 헤더를 설정합니다.(처음에 설정된 토큰 값이 유효하지 않으면 요청이 나갈 때마다 토큰을 재확인하고 설정)
+authInstance.interceptors.request.use(
+  (config) => {
+    const token = localStorage.getItem('token');
+    if (config.headers.Authorization.includes('null')) {
+      config.headers = {
+        ...config.headers,
+        Authorization: `Bearer ${token}`,
+      };
+    }
+    return config;
+  },
+  (error) => {
+    return Promise.reject(error);
+  },
+);
+```
+게시글을 생성하고 가져오는 API를 호출하기 위해 `authInstance`를 사용하여 두 가지 함수를 정의했습니다. <br>
+`PostCreate` 함수는 POST 요청을 보내며, `getPosts` 함수는 쿼리 매개변수를 사용하여 GET 요청을 보냅니다. axiosInstance를 설정했기 때문에 각 요청에서 반복적으로 URL을 입력하지 않고 API를 호출할 수 있었습니다.
+
+```javascript
+import { authInstance } from './axiosInstance';
+// 게시글 생성
+export const PostCreate = async (postData) => {
+  const response = await authInstance.post(`/post`, postData);
+  return response;
+};
+
+//게시글 전체보기
+export const getPosts = async (postData) => {
+  try {
+    const response = await authInstance.get('/post/?limit=500&skip=0', { data: postData });
+    return response.data;
+  } catch (error) {
+    console.error('Error fetching posts:', error);
+    throw error;
+  }
+};
+```
+---
 ### Firebase
 
+주어진 API에 참여한 사람의 정보를 저장하고 불러오는 기능이 없기 때문에 Firebase를 사용하여 참여한 사람의 정보를 저장하였습니다. <br>
+
+#### `useFirestore` 훅을 통해 Firestore에 도큐먼트 저장하기, 삭제하기
+
+`useFirestore`라는 커스텀 훅을 정의하여 Firestore와 상호 작용하는 기능을 구현했습니다. 이 훅은 데이터를 추가하거나 삭제할 수 있습니다. 먼저, `addDocument` 함수를 통해 Firestore에 도큐먼트를 추가합니다. 이 때, 도큐먼트에는 생성 시간도 함께 저장됩니다. 추가된 데이터에 대한 상태는 dispatch를 통해 변경되며, 성공 또는 실패 여부에 따라 적절한 상태로 업데이트됩니다.
+
+또한, `deleteDocument` 함수를 통해 Firestore에서 도큐먼트를 삭제할 수 있습니다. 이 함수는 문서의 ID를 매개변수로 받아 해당 문서를 삭제합니다. 마찬가지로 삭제 작업에 대한 성공 또는 실패 여부에 따라 상태가 업데이트됩니다.
+
+```javascript
+import { collection, addDoc, deleteDoc, doc } from 'firebase/firestore';
+import { useReducer } from 'react';
+import { appFireStore, timestamp } from '../firebase/config';
+
+...
+
+export const useFirestore = (transaction) => {
+  const [response, dispatch] = useReducer(storeReducer, initState);
+  const colRef = collection(appFireStore, transaction);
+
+  // 컬렉션에 문서를 추가합니다.
+  const addDocument = async (doc) => {
+    dispatch({ type: 'isPending' });
+    try {
+      const createdTime = timestamp.fromDate(new Date());
+      const docRef = await addDoc(colRef, { ...doc, createdTime });
+      dispatch({ type: 'addDoc', payload: docRef });
+      console.log('업로드 완료');
+    } catch (e) {
+      dispatch({ type: 'error', payload: e.message });
+      console.log('업로드 실패');
+    }
+  };
+
+  // 컬렉션에서 문서를 제거합니다.
+  const deleteDocument = async (id) => {
+    dispatch({ type: 'isPending' });
+    try {
+      const docRef = await deleteDoc(doc(colRef, id));
+      dispatch({ type: 'deleteDoc', payload: docRef });
+    } catch (e) {
+      dispatch({ type: 'error', payload: e.message });
+    }
+  };
+
+  return { addDocument, deleteDocument, response };
+};
+```
+
+Firestore에 저장이 필요한 페이지에서 `useFirestore` 훅을 사용하여 'FitBuddyGroup'이라는 컬렉션을 생성합니다. <br> 
+`useFirestore` 훅에서 반환된 `addDocument` 함수를 호출하여 새로운 문서를 Firestore의 'FitBuddyGroup' 컬렉션에 추가합니다. 여기서 현재 `user`의 정보와 현재 페이지의 `postId`를 포함하여 도큐먼트를 `Firestore`에 저장합니다.
+
+```javascript
+const { addDocument, response } = useFirestore('FitBuddyGroup');
+
+...
+
+addDocument({
+	user: data.user,
+	postId: groupId,
+});
+
+...
+```
+이미지 [Firestore에 저장된 컬렉션과 도큐먼트]
+
+#### `useCollection` 훅을 통한 컬랙션 데이터 접근하기
+
+`useCollection` 훅은 두 개의 매개변수인 `transaction`과 `myQuery`를 받습니다. <br> `myQuery`는 Firebase Firestore의 쿼리 조건을 담고 있습니다. 이 훅은 컬렉션의 데이터를 가져와 실시간으로 업데이트합니다. `useEffect` 훅을 사용하여 컴포넌트가 마운트될 때 Firestore에서 데이터를 가져오고, 컴포넌트가 언마운트될 때 구독을 해제합니다. `onSnapshot` 함수를 사용하여 실시간으로 데이터를 업데이트하며, 새로운 문서가 추가되거나 변경되면 즉시 업데이트됩니다.
+
+```javascript
+import { collection, onSnapshot, orderBy, query, where } from 'firebase/firestore';
+import { useEffect, useState } from 'react';
+import { appFireStore } from '../firebase/config';
+
+export const useCollection = (transaction, myQuery) => {
+  const [documents, setDocuments] = useState(null);
+  const [err, setErr] = useState(null);
+
+  useEffect(() => {
+    let q;
+    if (myQuery) {
+      q = query(
+        collection(appFireStore, transaction),
+        where(...myQuery),
+        orderBy('createdTime', 'desc'),
+      );
+    }
+
+    const unsubscribe = onSnapshot(
+      myQuery ? q : collection(appFireStore, transaction),
+
+      (snapshot) => {
+        let result = [];
+
+        snapshot.docs.forEach((doc) => {
+          result.push({ ...doc.data(), id: doc.id });
+        });
+
+        setDocuments(result);
+      },
+      (error) => {
+        setErr(error);
+      },
+    );
+
+    return () => {
+      unsubscribe();
+    };
+  }, []);
+
+  return { documents, err };
+};
+```
+
+Firestore에 저장된 도큐먼트를 불러 오고 싶은 페이지에서 `useCollection` 훅을 사용하여 'FitBuddyGroup' 컬렉션에서 postId가 현재 페이지 groupId와 일치하는 데이터를 가져옵니다. 이 데이터는 `documents` 변수에 저장되며, `err` 변수에는 발생한 오류가 저장됩니다. <br>
+
+`documents`가 존재하는 경우, 각 도큐먼트를 반복하여 화면에 표시합니다. 각 문서에서는 사용자의 이미지와 이름을 추출하여 해당 정보를 화면에 나타냅니다. 이를 통해 사용자는 모집글에 참여한 멤버들의 이미지와 이름을 확인할 수 있으며, 참여했을 때 본인의 프로필과 이름이 참여 멤버에 보여집니다.
+
+```javascript
+const { documents, err } = useCollection('FitBuddyGroup', ['postId', '==', groupId]);
+
+...
+
+{documents && documents
+              .map((document) => {
+                const myImg = document.user.image;
+                const myName = document.user.username;
+                return (
+                  <StyleJoinMember key={document.id}>
+                    <div className='placeholder-container'>
+                      <PlaceHolder type='JoinMember' src={myImg ? myImg : userImg} />
+                    </div>
+                    <p>{myName ? myName : '이름없음'}</p>
+                  </StyleJoinMember>
+                );
+              })}
+...
+```
+---
+
 ### 리코일
+
+recoil 상태관리를 사용하여 로컬스토리지에 상태값을 저장하기 위해 recoil-persist를 사용했습니다. <br>
+`‘effects_UNSTABLE’` 속성에 `persistAtom`을 넣어주어 이 상태가 로컬스토리지에 저장되도록 설정했습니다.
+
+서버 응답이 성공적일 경우 서버로부터 받은 토큰을 로컬 스토리지에 저장한 후, `saveToken` 함수를 이용해 사용자 정보를 `userTokenAtom`에 저장하였습니다.
+
+```javascript
+import { atom } from 'recoil';
+import { recoilPersist } from 'recoil-persist';
+
+const { persistAtom } = recoilPersist();
+
+const userTokenAtom = atom({
+  key: 'userTokenAtom',
+  default: {},
+  effects_UNSTABLE: [persistAtom],
+});
+
+export default userTokenAtom;
+
+// 토큰 로컬 저장
+  const setUserTokenAtom = useSetRecoilState(userTokenAtom); //리코일 구독
+  const saveToken = (token) => {
+    //토큰값
+    setUserTokenAtom(token);
+  };
+
+...
+
+if (response.status === 200) {
+        setLoginValid(response.data.message);
+        const receivedToken = response.data.user.token;
+        localStorage.setItem('token', receivedToken);
+        saveToken(response.data.user);
+        navigate('/Home');
+      }
+    } catch (err) {
+      console.error(err);
+    }
+  };
+```
+---
 
 ### 카카오맵 API
 
@@ -190,8 +442,7 @@ places.keywordSearch(address, function (results, status) {
   }
 });
 ```
-
-### 커뮤니티 작성
+---
 
 ### 카테고리 필터링
 
@@ -384,7 +635,6 @@ ESLint는 자바스크립트에서 문법적 에러를 표시해주는 도구입
 
 ```javascript
 
-
 📦final-21-FitBuddy
 ├─📂.github ──────────────── # GitHub 설정 및 템플릿 저장소
 │ ├─📜Refactor.md ────────── 📝 리팩터링 관련 템플릿
@@ -447,8 +697,17 @@ ESLint는 자바스크립트에서 문법적 에러를 표시해주는 도구입
 
 ### 박규경
 
+
+
 ### 박지수
+
+무척이나 값진 경험이었습니다. 부트캠프 동안 이해하지 못한 것도 많고, 작업에 대한 막연한 두려움이 매우 많았기 때문에 프로젝트가 진행된다는 상황 자체가 무척이나 불안했습니다. 그러나 협업이라는 것을 통해 몰랐던 내용들을 다시 한 번 복습하거나 배울 수 있었고, 중요하게 생각치 않았던 컨벤션과 복잡하게만 느껴졌던 Git과 API의 사용을 새롭게 깨달았습니다. 아쉬운 점은 스스로의 실력이 미흡하여 개발 과정과 팀원들의 소통에 제 스스로가 무척 소극적으로 행동한 것입니다. 그러나 이를 알아차리고 계속 자리를 함께 해주고, 프로젝트를 포기하지 않도록 저를 이끌어준 팀원들에게 감사의 말씀을 전합니다. 이 프로젝트는 수료 이후에도 성장할 수 있는 소중한 발판이 될 것 같습니다.
 
 ### 이승무
 
+팀 프로젝트를 통해 처음으로 동료들과 협력하며 작업했습니다. 프로젝트 초기에는 코드 작성 규칙, 즉 '컨벤션'의 중요성을 완전히 이해하지 못했습니다. 하지만 과정을 거치며, 이는 읽기 쉽고 일관된 코드를 유지하는 데 필수적임을 알게 되었습니다. 또한, API 사용법을 배우며 기술적인 성장을 경험했습니다. 처음에는 API 통합의 복잡성에 압도되기도 했지만, 점차 능숙해지며 데이터 관리와 애플리케이션 상태 관리의 중요성을 이해하게 되었습니다. 팀원들과 긴밀히 협력하면서, 각자의 강점을 활용하고 약점을 보완하는 방식으로 프로젝트에 임했습니다. 이 과정에서 커뮤니케이션의 가치와 팀으로서의 단결력이 얼마나 중요한지를 체험했습니다. 혼자서는 해내기 힘들었을 도전을 팀원들과 함께 극복하며, 나는 물론 팀 전체가 함께 성장해 나가는 소중한 경험을 했습니다.
+
 ### 한동수
+
+리액트 프로젝트를 통해 값진 경험을 한 것 같아 매우 기쁩니다. 처음에는 짧은 시간 안에 프로젝트를 성공적으로 마칠 수 있을지 걱정이 많았습니다. 하지만 팀원들과의 매일매일의 소통을 통해 하루하루 목표를 세우고 달성해 나가면서 프로젝트를 잘 마무리할 수 있었습니다. 이번 프로젝트를 통해 Git을 사용하여 팀원들의 코드를 검토하고 협업하는 방법을 배웠으며, 코드에 대한 오류 처리, 상태 관리, API 사용법 등을 통해 많은 성장을 이룰 수 있었습니다. 다만, 프로젝트 기간 동안 온전히 개발에 시간을 투자하지 못한 것이 아쉬움으로 남습니다. 이 프로젝트는 수료 후에도 지속적인 리팩토링과 추가 개발을 통해 성장의 발판으로 삼을 것입니다.
+
