@@ -51,7 +51,7 @@ Test PW : `gitbuddy98`
 
 |                                                                    **박규경**                                                                    |                                                                    **박지수**                                                                    |                                                                    **이승무**                                                                    |                                                                    **한동수**                                                                    |
 | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/0c569a94-0ccc-45a5-9511-98e56a0d6d66" width="180" height="180"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/ce91a109-b0bc-4abf-90b7-c7f54dce1ce9" width="180" height="180"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/7e6a58d2-74f2-4e80-b7c1-69294343c059" width="180" height="180"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/7dce0db0-44c3-4911-920e-618a5ef458c5" width="180" height="180"/> |
+| <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/7fb10826-07b4-49c1-803a-6d5ff71427e4" width="180" height="180"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/ce91a109-b0bc-4abf-90b7-c7f54dce1ce9" width="180" height="180"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/7e6a58d2-74f2-4e80-b7c1-69294343c059" width="180" height="180"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/7dce0db0-44c3-4911-920e-618a5ef458c5" width="180" height="180"/> |
 |     [![GitHub ggpark1218](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/ggpark1218)     |        [![GitHub indexxp](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/indexxp)        |    [![GitHub GoodSilver9](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/GoodSilver9)    |      [![GitHub handongsu](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/handongsu)      |
 |           ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Team Leader](https://img.shields.io/badge/-Team%20leader-red)           |     ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Document Leader](https://img.shields.io/badge/-Document%20leader-orange)      |  ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Development Leader](https://img.shields.io/badge/-Development%20leader-yellow)   | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)<br>![Communication Leader](https://img.shields.io/badge/-Communication%20Leader-green) |
 
@@ -146,8 +146,11 @@ Test PW : `gitbuddy98`
 
 ## <span id="important">7. 핵심 코드</span>
 
-### Axios
+<details>
+<summary>Axios</summary>
+<div markdown="1">
 
+<br>
 `axios` 라이브러리를 활용하여 API를 호출하였습니다. `axios` 인스턴스를 만들어 기본 설정을 한 번에 구성하여 모든 요청에 대해 동일한 구성을 사용할 수 있었으며, <br> 
 `axios` 인스턴스에 `create`메서드를 통해 서버의 기본 URL을 설정하고 `interceptors`를 추가하여 요청 전 조건을 만족했을 시에 실행하도록 하였습니다.
 
@@ -220,9 +223,14 @@ export const getPosts = async (postData) => {
   }
 };
 ```
----
-### Firebase
+</div>
+</details>
 
+<details>
+<summary>Firebase</summary>
+<div markdown="1">
+
+<br>
 주어진 API에 참여한 사람의 정보를 저장하고 불러오는 기능이 없기 때문에 Firebase를 사용하여 참여한 사람의 정보를 저장하였습니다. <br>
 
 #### `useFirestore` 훅을 통해 Firestore에 도큐먼트 저장하기, 삭제하기
@@ -286,7 +294,8 @@ addDocument({
 
 ...
 ```
-이미지 [Firestore에 저장된 컬렉션과 도큐먼트]
+<img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/bd2139a1-c1fb-4690-a76f-d20e7638ecdc" width="889" /> <br>
+[Firestore에 저장된 컬렉션과 도큐먼트]
 
 #### `useCollection` 훅을 통한 컬랙션 데이터 접근하기
 
@@ -361,10 +370,14 @@ const { documents, err } = useCollection('FitBuddyGroup', ['postId', '==', group
               })}
 ...
 ```
----
+</div>
+</details>
 
-### 리코일
+<details>
+<summary>리코일</summary>
+<div markdown="1">
 
+<br>
 recoil 상태관리를 사용하여 로컬스토리지에 상태값을 저장하기 위해 recoil-persist를 사용했습니다. <br>
 `‘effects_UNSTABLE’` 속성에 `persistAtom`을 넣어주어 이 상태가 로컬스토리지에 저장되도록 설정했습니다.
 
@@ -405,9 +418,15 @@ if (response.status === 200) {
     }
   };
 ```
----
 
-### 카카오맵 API
+</div>
+</details>
+
+<details>
+<summary>카카오맵 API</summary>
+<div markdown="1">
+
+<br>
 
 사용자가 원하는 곳 특정 주소나 키워드를 입력후 검색을 수행합니다. <br>
 검색 결과와 상태를 처리하는 콜백 함수를 정의하고, 해당하는 검색 결과를 기반으로 해당 주소의 좌표를 검색 후 해당 지도에 마커를 표시를 해주는 기능을 위해 카카오 API를 사용하였습니다. <br>
@@ -442,8 +461,14 @@ places.keywordSearch(address, function (results, status) {
   }
 });
 ```
----
+</div>
+</details>
 
+<details>
+<summary>카테고리 필터링</summary>
+<div markdown="1">
+
+<br>
 ### 카테고리 필터링
 
 사용자에게 선택한 운동 종목에 맞는 검색 결과만을 제공하기 위하여 필터링 작업을 거쳤습니다. <br>
@@ -475,6 +500,8 @@ const transformProducts = (products, selectedSport) => {
     });
 };
 ```
+</div>
+</details>
 
 ## <span id="convention">8. 컨벤션</span>
 
