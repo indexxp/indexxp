@@ -122,11 +122,11 @@ Test PW : `gitbuddy98`
 
 |                                                                     스플래시                                                                     |                                                                     회원가입                                                                     |                                                                      로그인                                                                      |                                                                  홈 - 카테고리                                                                   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/de48ad80-3dc0-43d9-aca6-5f3b03ed546c" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/63f0ad9a-8d08-44e4-a3a7-e2626b01fffa" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/6d2375c2-8f94-4846-94c9-c677fb41cc3d" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/42603fe4-7a0e-430d-bea2-12da02cd865e" width="200" height="400"/> |
+| <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/de48ad80-3dc0-43d9-aca6-5f3b03ed546c" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/f7d8749b-ae17-4812-9af3-a41c0b62ee2d" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/6d2375c2-8f94-4846-94c9-c677fb41cc3d" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/78ef1e82-f26e-4b4a-9013-a50c1e2017fa" width="200" height="400"/> |
 
 |                                                                  모집글 업로드                                                                   |                                                                   모집글 상세                                                                    |                                                                      모집글                                                                      |                                                                   모집글 삭제                                                                    |
 | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/2aed31ca-5607-486b-bdea-efebd2f22a6f" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/f0aab59b-f552-4dff-9744-f6bd31696bc7" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/6408cbff-378f-4058-8cd0-2e721b59181f" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/47f37662-0fc8-4079-b319-eaad68a6a5c2" width="200" height="400"/> |
+| <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/2aed31ca-5607-486b-bdea-efebd2f22a6f" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/43474bb8-1bc4-45c3-a799-9f9600ec9d2f" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/6408cbff-378f-4058-8cd0-2e721b59181f" width="200" height="400"/> | <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/645900cc-ba24-483b-a77c-db3d76829729" width="200" height="400"/> |
 
 |                                                                      캘린더                                                                      |
 | :----------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -197,6 +197,7 @@ authInstance.interceptors.request.use(
   },
 );
 ```
+
 게시글을 생성하고 가져오는 API를 호출하기 위해 `authInstance`를 사용하여 두 가지 함수를 정의했습니다. <br>
 `PostCreate` 함수는 POST 요청을 보내며, `getPosts` 함수는 쿼리 매개변수를 사용하여 GET 요청을 보냅니다. axiosInstance를 설정했기 때문에 각 요청에서 반복적으로 URL을 입력하지 않고 API를 호출할 수 있었습니다.
 
@@ -219,6 +220,7 @@ export const getPosts = async (postData) => {
   }
 };
 ```
+
 </div>
 </details>
 
@@ -275,7 +277,7 @@ export const useFirestore = (transaction) => {
 };
 ```
 
-Firestore에 저장이 필요한 페이지에서 `useFirestore` 훅을 사용하여 'FitBuddyGroup'이라는 컬렉션을 생성합니다. <br> 
+Firestore에 저장이 필요한 페이지에서 `useFirestore` 훅을 사용하여 'FitBuddyGroup'이라는 컬렉션을 생성합니다. <br>
 `useFirestore` 훅에서 반환된 `addDocument` 함수를 호출하여 새로운 문서를 Firestore의 'FitBuddyGroup' 컬렉션에 추가합니다. 여기서 현재 `user`의 정보와 현재 페이지의 `postId`를 포함하여 도큐먼트를 `Firestore`에 저장합니다.
 
 ```javascript
@@ -290,6 +292,7 @@ addDocument({
 
 ...
 ```
+
 <img src="https://github.com/FRONTENDSCHOOL7/final-21-FitBuddy/assets/139687655/bd2139a1-c1fb-4690-a76f-d20e7638ecdc" width="889" /> <br>
 [Firestore에 저장된 컬렉션과 도큐먼트]
 
@@ -366,6 +369,7 @@ const { documents, err } = useCollection('FitBuddyGroup', ['postId', '==', group
               })}
 ...
 ```
+
 </div>
 </details>
 
@@ -457,6 +461,7 @@ places.keywordSearch(address, function (results, status) {
   }
 });
 ```
+
 </div>
 </details>
 
@@ -496,6 +501,7 @@ const transformProducts = (products, selectedSport) => {
     });
 };
 ```
+
 </div>
 </details>
 
@@ -717,7 +723,6 @@ ESLint는 자바스크립트에서 문법적 에러를 표시해주는 도구입
 ```
 
 ## <span id="review">10. 후기</span>
-
 
 <details>
 <summary>박규경🐈</summary>
